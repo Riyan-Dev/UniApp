@@ -1,0 +1,116 @@
+[
+    {
+        "id": 0,
+        "universityName": "Cambridge",
+        "SATReq": 1500,
+        "tuition": "21732 GBP",
+        "website": "https://www.cam.ac.uk"
+    },
+    {
+        "id": 1,
+        "universityName": "MIT",
+        "SATReq": 1570,
+        "tuition": "51832 USD",
+        "website": "https://www.mit.edu"
+    },
+    {
+        "id": 2,
+        "universityName": "Harvard",
+        "SATReq": 1520,
+        "tuition": "51,925 USD",
+        "website": "https://www.harvard.edu"
+    },
+    {
+        "id": 3,
+        "universityName": "Stanford",
+        "SATReq": 1570,
+        "tuition": "53,529 USD",
+        "website": "https://www.stanford.edu"
+    },
+    {
+        "id": 4,
+        "universityName": "University of California, Berkeley",
+        "SATReq": 1330,
+        "tuition": "44,007 USD",
+        "website": "https://www.ucb.com"
+    },
+    {
+        "id": 5,
+        "universityName": "Columbia University",
+        "SATReq": 1440,
+        "tuition": "61,788 USD",
+        "website": "https://www.columbia.edu"
+    },
+    {
+        "id": 6,
+        "universityName": "UCLA",
+        "SATReq": 1300,
+        "tuition": "42,994 USD",
+        "website": "https://www.ucla.edu"
+    },
+    {
+        "id": 7,
+        "universityName": "Yale",
+        "SATReq": 1460,
+        "tuition": "55,500 USD",
+        "website": "https://www.yale.edu"
+    },
+    {
+        "id": 8,
+        "universityName": "Univeristy Of Pennsylvania",
+        "SATReq": 1450,
+        "tuition": "57,770 USD",
+        "website": "https://www.upenn.edu"
+    },
+    {
+        "id": 9,
+        "universityName": "Princeton",
+        "SATReq": 1460,
+        "tuition": "52,800 USD",
+        "website": "https://www.princeton.edu"
+    },
+    {
+        "id": 10,
+        "universityName": "Cornell",
+        "SATReq": 1400,
+        "tuition": "57,222 USD",
+        "website": "https://www.cornell.edu"
+    },
+    {
+        "id": 11,
+        "universityName": "NYU",
+        "SATReq": 1350,
+        "tuition": "53,308 USD",
+        "website": "https://www.nyu.edu"
+    },
+    {
+        "id": 12,
+        "universityName": "university of chicago",
+        "SATReq": 1500,
+        "tuition": "60,552 USD",
+        "website": "https://www.uchicago.edu"
+    },
+    {
+        "id": 13,
+        "universityName": "Duke University",
+        "SATReq": 1480,
+        "tuition": "58,031 USD",
+        "website": "https://duke.edu"
+    },
+    {
+        "id": 14,
+        "universityName": "Jhon Hopkins",
+        "SATReq": 1460,
+        "tuition": "55,350 USD",
+        "website": "https://www.jhu.edu"
+    },
+    {
+        "id": 15,
+        "universityName": "University of southern california",
+        "SATReq": 1360,
+        "tuition": "58,195 USD",
+        "website": "https://www.usc.edu"
+    }
+ ]
+
+
